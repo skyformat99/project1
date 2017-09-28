@@ -1,0 +1,14 @@
+prefix=/opt/project1/motion/ffmpeg-0.5.1/_install/
+exec_prefix=${prefix}
+libdir=${prefix}/lib
+includedir=${prefix}/include
+
+Name: libavcodec
+Description: FFmpeg codec library
+Version: 52.20.1
+Requires: 
+Requires.private: libavutil = 49.15.0
+Conflicts:
+Libs: -L${libdir} -lavcodec 
+Libs.private: -lz -lm -ldl -ldl
+Cflags: -I${includedir}

@@ -1,0 +1,14 @@
+prefix=/opt/project1/motion/ffmpeg-0.5.1/_install/
+exec_prefix=${prefix}
+libdir=${prefix}/lib
+includedir=${prefix}/include
+
+Name: libavformat
+Description: FFmpeg container format library
+Version: 52.31.0
+Requires: 
+Requires.private: libavcodec = 52.20.1
+Conflicts:
+Libs: -L${libdir} -lavformat 
+Libs.private: -lz -lm -ldl -ldl
+Cflags: -I${includedir}

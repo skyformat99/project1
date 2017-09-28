@@ -1,0 +1,59 @@
+layer12.lo: layer12.c config.h global.h \
+ /usr/local/arm/arm-2009q3/bin/../lib/gcc/arm-none-linux-gnueabi/4.4.1/include-fixed/limits.h \
+ /usr/local/arm/arm-2009q3/bin/../lib/gcc/arm-none-linux-gnueabi/4.4.1/include-fixed/syslimits.h \
+ /usr/local/arm/arm-2009q3/bin/../arm-none-linux-gnueabi/libc/usr/include/limits.h \
+ /usr/local/arm/arm-2009q3/bin/../arm-none-linux-gnueabi/libc/usr/include/features.h \
+ /usr/local/arm/arm-2009q3/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/predefs.h \
+ /usr/local/arm/arm-2009q3/bin/../arm-none-linux-gnueabi/libc/usr/include/sys/cdefs.h \
+ /usr/local/arm/arm-2009q3/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/wordsize.h \
+ /usr/local/arm/arm-2009q3/bin/../arm-none-linux-gnueabi/libc/usr/include/gnu/stubs.h \
+ /usr/local/arm/arm-2009q3/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/posix1_lim.h \
+ /usr/local/arm/arm-2009q3/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/local_lim.h \
+ /usr/local/arm/arm-2009q3/bin/../arm-none-linux-gnueabi/libc/usr/include/linux/limits.h \
+ /usr/local/arm/arm-2009q3/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/posix2_lim.h \
+ fixed.h bit.h stream.h frame.h timer.h layer12.h sf_table.dat \
+ qc_table.dat
+
+config.h:
+
+global.h:
+
+/usr/local/arm/arm-2009q3/bin/../lib/gcc/arm-none-linux-gnueabi/4.4.1/include-fixed/limits.h:
+
+/usr/local/arm/arm-2009q3/bin/../lib/gcc/arm-none-linux-gnueabi/4.4.1/include-fixed/syslimits.h:
+
+/usr/local/arm/arm-2009q3/bin/../arm-none-linux-gnueabi/libc/usr/include/limits.h:
+
+/usr/local/arm/arm-2009q3/bin/../arm-none-linux-gnueabi/libc/usr/include/features.h:
+
+/usr/local/arm/arm-2009q3/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/predefs.h:
+
+/usr/local/arm/arm-2009q3/bin/../arm-none-linux-gnueabi/libc/usr/include/sys/cdefs.h:
+
+/usr/local/arm/arm-2009q3/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/wordsize.h:
+
+/usr/local/arm/arm-2009q3/bin/../arm-none-linux-gnueabi/libc/usr/include/gnu/stubs.h:
+
+/usr/local/arm/arm-2009q3/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/posix1_lim.h:
+
+/usr/local/arm/arm-2009q3/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/local_lim.h:
+
+/usr/local/arm/arm-2009q3/bin/../arm-none-linux-gnueabi/libc/usr/include/linux/limits.h:
+
+/usr/local/arm/arm-2009q3/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/posix2_lim.h:
+
+fixed.h:
+
+bit.h:
+
+stream.h:
+
+frame.h:
+
+timer.h:
+
+layer12.h:
+
+sf_table.dat:
+
+qc_table.dat:

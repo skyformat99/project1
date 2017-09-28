@@ -1,0 +1,10 @@
+audio_null.o: audio_null.c config.h global.h \
+ /home/project1/libid3tag-0.15.1b/_install/include/mad.h audio.h
+
+config.h:
+
+global.h:
+
+/home/project1/libid3tag-0.15.1b/_install/include/mad.h:
+
+audio.h:
